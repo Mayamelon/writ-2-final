@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="102mm" height="102mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 102 102"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#141516;stroke-width:0.75}
+    .str0 {stroke:#141516;stroke-width:2}
+    .str1 {stroke:#141516;stroke-width:4}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Ebene_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <ellipse class="fil0 str0" cx="50.9" cy="50.9682" rx="50" ry="49.9998"/>
+  <line class="fil0 str1" x1="0.6" y1="50.9998" x2="40" y2= "51" />
+  <line class="fil0 str1" x1="101.1" y1="51" x2="62" y2= "51" />
+  <line class="fil0 str2" x1="40" y1="51" x2="62" y2= "51" />
+  <line class="fil0 str2" x1="51.0468" y1="61.8229" x2="51" y2= "40" />
+  <line class="fil0 str1" x1="51.3924" y1="101.098" x2="51" y2= "62.0001" />
+  <line class="fil0 str1" x1="51.3924" y1="101.098" x2="51.0468" y2= "61.8229" />
+  <line class="fil0 str1" x1="50.9999" y1="39.9999" x2="50.6076" y2= "0.9018" />
+ </g>
+</svg>
